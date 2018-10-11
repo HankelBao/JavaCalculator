@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Java Calculator
  * I hate Java, but AP uses JAVA
  */
-public class App
+public class App 
 {
     public static void main( String[] args )
     {
